@@ -1,0 +1,2 @@
+# Daily_Precipitations_Nyabugogo_Kigali1982_2021_Month_January
+We present daily precipitation data collected at the Nyabugogo Bus Terminal (point location:  between Kobil and Engen Total petrol stations) in Kigali City, Rwanda from 01/01/1982 to 01/31/2021. The data are corrected values and the units are in millimeters per day. The dataset was downloaded from https://power.larc.nasa.gov/data-access-viewer/
